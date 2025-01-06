@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome! 👋
 
-Hello! I am Mingze Kong, currently a final-year undergraduate student in **Data Science** at Lanzhou University. I am also working as a Research Assistant at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), under the supervision of [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/). Feel free to reach out to me via email: [mingzekong@cuhk.edu.cn](mailto:mingzekong@cuhk.edu.cn).
+Hello! I am Kong Mingze, currently a final-year undergraduate student in **Data Science** at Lanzhou University. I am also working as a Research Assistant at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), under the supervision of [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/). Feel free to reach out to me via email: [mingzekong@cuhk.edu.cn](mailto:mingzekong@cuhk.edu.cn).
 
 ## Research Interests
 - **🤖 Large Language Model (LLM) Agents**: Investigating how LLMs can act as decision-makers and reasoners in diverse and complex tasks.
