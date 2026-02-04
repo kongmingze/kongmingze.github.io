@@ -9,7 +9,9 @@ redirect_from:
 
 # Welcome! 👋
 
-Hello! I am Kong Mingze, currently a final-year undergraduate student in **Data Science** at Lanzhou University. I am also working as a Research Assistant at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en), under the supervision of [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/). Feel free to reach out to me via email: [mingzekong@cuhk.edu.cn](mailto:mingzekong@cuhk.edu.cn).
+I am a first-year Ph.D. student in Computer Science at [The Chinese University of Hong Kong, Shenzhen](https://cuhk.edu.cn/en) (CUHK-Shenzhen), where I am privileged to be advised by [Prof. Zhongxiang Dai](https://daizhongxiang.github.io/). My research interests lie at the intersection of Large Language Models (LLMs) and Reinforcement Learning.
+
+Prior to my doctoral studies, I served as a Research Assistant in the same group. I earned my Bachelor's degree in Computer Science from Lanzhou University. For academic collaborations or inquiries, please feel free to reach me at [mingzekong@cuhk.edu.cn](mailto:mingzekong@cuhk.edu.cn).
 
 ## Research Interests
 
