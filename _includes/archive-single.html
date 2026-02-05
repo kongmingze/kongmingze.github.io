@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item{% if post.collection == 'publications' %} list__item--publication{% endif %}">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
@@ -27,11 +27,11 @@
     {% endif %}
 
     {% if post.collection == 'publications' and post.image %}
-      <div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+      <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 24px;">
         <div style="flex-shrink: 0;">
-          <img src="{{ base_path }}/images/{{ post.image }}" alt="{{ post.title }}" style="width: 200px; height: auto;">
+          <img src="{{ base_path }}/images/{{ post.image }}" alt="{{ post.title }}" style="width: 280px; height: auto;">
         </div>
-        <div style="flex-grow: 1;">
+        <div style="flex-grow: 1; min-width: 0;">
           <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
             <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
           </h2>

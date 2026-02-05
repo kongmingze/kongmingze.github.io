@@ -107,6 +107,11 @@
   }
 }
 
+/* Publications page: remove right padding to give more space for content */
+.list__item--publication {
+  padding-right: 0 !important;
+}
+
 
 /*
    Grid view
