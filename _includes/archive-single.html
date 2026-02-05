@@ -28,8 +28,8 @@
 
     {% if post.collection == 'publications' and post.image %}
       <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 24px;">
-        <div style="flex-shrink: 0;">
-          <img src="{{ base_path }}/images/{{ post.image }}" alt="{{ post.title }}" style="width: 280px; height: auto;">
+        <div style="flex-shrink: 0; width: 280px; height: 160px; overflow: hidden;">
+          <img src="{{ base_path }}/images/{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 100%; object-fit: cover; object-position: center top;">
         </div>
         <div style="flex-grow: 1; min-width: 0;">
           <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0;">
