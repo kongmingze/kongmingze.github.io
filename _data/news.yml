@@ -1,0 +1,15 @@
+# News timeline shown on the home page (most recent first).
+# `year` is the small left label; `body` may contain HTML (links).
+# NOTE: year labels are approximate — adjust to the exact month/year if you like.
+- year: "2026"
+  body: >
+    New preprint <a class="mk-news-title" href="https://arxiv.org/abs/2602.01202" target="_blank" rel="noopener">&ldquo;Workflow-R1: Group Sub-sequence Policy Optimization for Multi-turn Workflow Construction&rdquo;</a> is on arXiv, with code released.
+- year: "2025"
+  body: >
+    New preprint <a class="mk-news-title" href="https://arxiv.org/abs/2509.24696" target="_blank" rel="noopener">&ldquo;T-POP: Test-Time Personalization with Online Preference Feedback&rdquo;</a> is on arXiv.
+- year: "2025"
+  body: >
+    <a class="mk-news-title" href="https://arxiv.org/abs/2502.02079" target="_blank" rel="noopener">&ldquo;Online Clustering of Dueling Bandits&rdquo;</a> is accepted at ICML 2025.
+- year: "2025"
+  body: >
+    Workshop paper <a class="mk-news-title" href="https://arxiv.org/abs/2502.00728" target="_blank" rel="noopener">&ldquo;Meta-Prompt Optimization for LLM-Based Sequential Decision Making&rdquo;</a> at the Reasoning and Planning for LLMs Workshop @ ICLR 2025.

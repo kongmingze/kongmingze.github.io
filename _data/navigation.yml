@@ -1,12 +1,4 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
-main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "CV"
-    url: /cv/
+# The site is a single page (home) that contains About, News and Publications.
+# No top navigation links are needed. Add entries here if you later split content
+# into separate pages.
+main: []

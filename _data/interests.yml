@@ -1,0 +1,13 @@
+# Research interests shown on the home page. Add / reorder freely.
+- n: "01"
+  title: "Multi-Agent Systems"
+  desc: "Coordination, communication, and collaboration among multiple intelligent agents in dynamic environments."
+- n: "02"
+  title: "LLM Agents"
+  desc: "LLMs as autonomous decision-makers that plan, execute, and adapt in real-world scenarios."
+- n: "03"
+  title: "Reinforcement Learning"
+  desc: "Learning optimal policies through interaction, with a focus on sample efficiency and generalization."
+- n: "04"
+  title: "Multi-Armed Bandits"
+  desc: "Theory and practice of exploration–exploitation trade-offs under uncertainty."
